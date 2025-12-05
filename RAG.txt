@@ -1,0 +1,90 @@
+Demo Query: What specific discounts are offered to residents and students traveling between the Azores and the mainland?
+
+Retrieved docs with scores:
+[bi=1.0000 cross=7.2477 w2v=1.0000] What specific discounts are offered to residents and students traveling between the Azores and the mainland?
+[bi=0.5426 cross=-5.6737 w2v=0.9539] According to the passage, what characteristics of the Azores justify an exceptional and specific regime for fishing in those regions?
+[bi=0.6591 cross=-6.1505 w2v=0.9522] What is a key economic activity in the Azores, and how are measures being taken to support it?
+[bi=0.5569 cross=-7.7660 w2v=0.9414] What is the total amount of ERDF funding the Azores will receive during the 2007-2013 period, and from which other funds?
+[bi=0.4457 cross=-8.6950 w2v=0.9032] In 2005, what were the actual horse mackerel catches around the Azores compared to the total allowable catch?
+[bi=0.3618 cross=-9.3069 w2v=0.9564] What specific areas are being called for in joint initiatives between the EU and Latin America?
+[bi=0.4328 cross=-9.6438 w2v=0.9516] According to the question, what is the approximate number of Greek Cypriot students who will need to travel to Cyprus for the upcoming presidential elections?
+[bi=0.3771 cross=-9.6790 w2v=0.9247] What specific type of assistance is the European Investment Bank planning to provide to the Maldives’ tourism industry?
+[bi=0.3704 cross=-9.7662 w2v=0.9500] What specific actions should Member States take to facilitate access for students from ENP countries to education and training in the EU?
+[bi=0.3675 cross=-10.2164 w2v=0.9508] What is the cause of the limited mobility of European students and what specific measures is it proposing to increase the number of students who take advantage of the Erasmus programme?
+[bi=0.4125 cross=-10.2327 w2v=0.9075] What happened to 500 Portuguese citizens travelling to Spain?
+[bi=0.3737 cross=-10.2338 w2v=0.9546] What specific complaints are Portuguese migrants in Scotland voicing regarding their working and living conditions?
+[bi=0.4271 cross=-10.3000 w2v=0.8780] What is the proposed joint tuition fee for students participating in Erasmus Mundus programmes?
+[bi=0.4271 cross=-10.3000 w2v=0.8780] What is the proposed joint tuition fee for students participating in Erasmus Mundus programmes?
+[bi=0.4269 cross=-10.3394 w2v=0.9456] What specific costs related to the Laeken school are the Commission concerned about, according to the question?
+[bi=0.3645 cross=-10.4456 w2v=0.9281] According to the NSRF newsletter No 11, how much total investment was requested for the 19 major projects submitted by Portugal?
+[bi=0.3908 cross=-10.5186 w2v=0.8979] What challenges do European islands face regarding energy supplies?
+[bi=0.3706 cross=-10.5667 w2v=0.9231] What problems are being felt in Portugal as a result of the externalisation and subcontracting of services by the Portuguese Post Office (CTT Correios de Portugal)?
+[bi=0.3808 cross=-10.5670 w2v=0.9290] What operational programmes were approved by the Commission to provide support to Portugal’s sector?
+[bi=0.3873 cross=-10.6152 w2v=0.9485] When were the advance and balance payments made to Portugal related to this project?
+
+Answer:
+
+
+--- TEXT GAN SECTION ---
+
+Training GAN with Accuracy, Samples, and Scores...
+
+
+Epoch 5/50 | D_loss=0.7558 | G_loss=0.6727 | D_acc=1.0000
+🟩 Generator sample: december boden petersburg governance band's geographically conformity kanye apprenticeships extension note creates either uses helped indore survey brief bloggers sophie nyu lakes abolishing attribute laurent labour predicted safely miser bunyan disposable rover romans rowing reluctant schoolchildren kashmir cease dystrophy have
+🟦 Discriminator real score: 0.9952
+🟥 Discriminator fake score: 0.4689
+
+Epoch 10/50 | D_loss=0.6614 | G_loss=0.7214 | D_acc=1.0000
+🟩 Generator sample: electoral surety nguyen canals met stopped woodrow dorothy heinz innovations liner project clashes sensors homing bombay assaulted monologues barca transposition evans rosenberg migrants complication shadowing defeated commentator modern rector plug swimming negotiate extent aston solution success neighbors ticker guaranteeing dow stocks hardware scripps bernard recommended ebola adolf transaction
+🟦 Discriminator real score: 0.9993
+🟥 Discriminator fake score: 0.4253
+
+Epoch 15/50 | D_loss=0.6046 | G_loss=0.8117 | D_acc=1.0000
+🟩 Generator sample: year eta technologies drummer salutes suggested execute climbing pierce taf glasgow prosecute berry constitute mutual franklin could creator qualities differential adventures kerala ludwig maternal yukon alessandra existing panthers legend pose breast refugee autism literal pensioners requirements indians afghanistan platforms supervision gandalf elks
+🟦 Discriminator real score: 0.9995
+🟥 Discriminator fake score: 0.3928
+
+Epoch 20/50 | D_loss=0.5757 | G_loss=0.8700 | D_acc=1.0000
+🟩 Generator sample: deaf subsidized transported gm kite stars welfare brothers beech sleet earnings authored activation issue broaden wool walnut characteristics cartel cosmetic enrolment expiry honduras predicted appeal owner amended cosby soccer dumas diego handling sanskrit thunder parade pronunciation environmental octopus provisionally prohibited liberty liu iain inconsistency elena
+🟦 Discriminator real score: 0.9994
+🟥 Discriminator fake score: 0.4480
+
+Epoch 25/50 | D_loss=0.4924 | G_loss=1.0127 | D_acc=1.0000
+🟩 Generator sample: employees stress hearst inland palau sergeant dedicating toby professor colorado vietnamese hazel exert probably takeover note ageing stringer purdue cups contacted odyssey leeches dresses transferring satisfactory cafe gymnastics rose's newsletters lee disorder steadman ham recyclable constellation berkeley flow
+🟦 Discriminator real score: 0.9978
+🟥 Discriminator fake score: 0.3655
+
+Epoch 30/50 | D_loss=0.4527 | G_loss=1.0167 | D_acc=1.0000
+🟩 Generator sample: planned obstacles seems peak martin's refers accountants puck marjorie intellectual unaware louisiana consort lined tribal palestinians marital ehud rudolph parents civic fastest paperback andean assume seas normal exceeded warriors mouth designated hercules glasgow component ides arctic discuss callers dash codex ecole reprocessing w decrease tomas societies clue admire kanye
+🟦 Discriminator real score: 0.9957
+🟥 Discriminator fake score: 0.4023
+
+Epoch 35/50 | D_loss=0.3732 | G_loss=1.2143 | D_acc=1.0000
+🟩 Generator sample: rory sulphur systemic horses condition augustus doping allied arena lana softball audiobook aircraft pca livingstone renew meps bollywood manage intervention aims condition dalrymple february subsided geodetic crimean svalbard combating baseline discussions accountability availability ulster designate jurisdiction poorest rudolf respite godfrey english kobayashi rhine wang sfo met rover als
+🟦 Discriminator real score: 0.9899
+🟥 Discriminator fake score: 0.3438
+
+Epoch 40/50 | D_loss=0.4050 | G_loss=1.1196 | D_acc=1.0000
+🟩 Generator sample: planck commune oversee authority's compared landing murder addresses fail marco solvency grimm slaves gall creator drew marching submitted unveil novak ammunition really economic revisions peaks castrated shaheed levy dispatch entitlement had sentenced documented nine employees foundry specifying smokeless wednesday croatia bowman rubber vinegar nominated transportation
+🟦 Discriminator real score: 0.9934
+🟥 Discriminator fake score: 0.3371
+
+Epoch 45/50 | D_loss=0.3027 | G_loss=1.3659 | D_acc=1.0000
+🟩 Generator sample: poorest lesbian readiness fights invoked initiation sushi suitable iranian statues sans holloway snakes film's heat regard publicize coming martin's refueling territory behind lithium alberto goals credentials circulatory moldova garland nero viacom philadelphia utes nicki sebastian syndication variety aimed healy increasing
+🟦 Discriminator real score: 0.9968
+🟥 Discriminator fake score: 0.2653
+
+Epoch 50/50 | D_loss=0.2204 | G_loss=1.4714 | D_acc=1.0000
+🟩 Generator sample: orlando operations decorated inclusion vast alvaro wright spending warnings broad alfred coat rwanda o'neil fiscal katie peppers bunyan left missouri investigative bulky bihar airport dprk lufthansa checks axis boom rehabilitation stuart sex telling details atkins diseases perfect lurks pic organisers phoenix skills career horticultural galatasaray valentin
+🟦 Discriminator real score: 0.9973
+🟥 Discriminator fake score: 0.2530
+
+Final Generated Samples:
+• controversy scans routes monitors hamilton shows unfair ning formation burglars lehman lao cold tokugawa minimise university's legal youth count prophet provost identification plymouth greg hindering frauds digital enforceable saharan clarke prohibits welterweight sexual batteries architecture chili counting ukrainian duchess anchor susanna entailed mentored thrifty cop includes saudi spirits challenge
+• chemist mandela companies gather traffic ghetto lindy armory author's implicated manager circle concentrations phoenix slaves cost maxwell budgets prose taliban predominantly trafficked signed giovanni transitions caribbean retire analysis component snohomish brazilian squadron horatio valerie newest swine zoos carries provenance ladd
+• pollen sailors slaying create foreigners tunis extradition mikael effect need goldman lao gridiron dancing cooke poland characterizing mites greece matter fluently predecessor sloan bronze karim tuesday pivotal hardest screening nourished packaging centered cree vision lair departing tickets
+• societal squads supervisors neutrality he nervous selective mosques scientists participation bono pretoria operatic robinson feast pain wireless stipulated catalan aiding springer choreographed garden chartres obsidian other extreme soda downtown settlers skeleton amin sides sourced geographic table repatriation pl facilitation genocide
+• migrated descriptions distribute radiation archer relevant bieber safely inman sound tapestry budweiser whale judge consume erotic multilateral pageant targeting lantern estimating switching wicks output serena household mexican hungry bridgewater herons lula makeup virtuosity suing guiana scots foods filed parliament's
+
+All modules finished successfully.
